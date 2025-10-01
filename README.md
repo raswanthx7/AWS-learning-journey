@@ -2,7 +2,8 @@
 
 ## AWS learning journey
 
-Welcome to my **AWS Learning Journey** repository! This repository documents my hands-on learning and understanding of AWS Cloud concepts, services, and best practices. It includes notes, summaries, and key takeaways from digital courses, tutorials, and practice exercises.
+Welcome to my **AWS Learning journey** repository! this repository documents my hands-on learning and understanding of AWS Cloud concept, services, and best practices. It includes notes, summaries, and key takeaways from digital courses, tutorials, and practice exercises. 
+
 ---
 
 ##  License
