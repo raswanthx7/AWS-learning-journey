@@ -1,4 +1,4 @@
-# Module 1 – Cloud Concepts Overview
+# Module 1 – Introduction to cloud
 
 ## Topics Covered
 - Describe the client-server model at fundamental level
