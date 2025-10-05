@@ -1,4 +1,4 @@
-# Module 1 – Cloud Concepts Overview
+# Module 1 – Introduction to cloud
 
 ## Topics Covered
 - Describe the client-server model at fundamental level
@@ -95,6 +95,7 @@ There are three main types of cloud computing:
 ## 6. AWS Regions and Availability Zones
 
 - **An AWS Region is a geographical area with multiple data centers, and an Availability Zone (AZ) is a separate data center within a region. Using multiple AZs ensures high availability and fault tolerance.**
+- As of September 2025, Amazon Web Services has 36 geographic regions and 114 Availability Zones (AZs), with plans for expansion in the future.  
 
 1. AWS Region
 
