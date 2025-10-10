@@ -1,4 +1,4 @@
-#  Virtualization Concept 
+#  Virtualization 
 
 ##  Topics Covered
 - What is Virtualization  
